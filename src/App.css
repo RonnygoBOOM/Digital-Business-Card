@@ -54,8 +54,17 @@ h4 {
   width: 60%;
   height: 2em;
   border-radius: 1em;
-  border: transparent;
+  border-color: rgb(31, 30, 30);
   /* text-align: center;
   text-decoration: none;
   display: inline-block; */
+}
+
+.button:hover {
+  margin: 0;
+  padding: 0;
+  width: 60%;
+  height: 2em;
+  border-radius: 1em;
+  border-color: transparent;
 }

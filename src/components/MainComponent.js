@@ -7,7 +7,7 @@ function Main() {
         <>
         <div className="container">
             <Row>
-                <Col sm={{size: 6, offset: 3}}>
+                <Col sm={{size: 8, offset: 2}} xs={{size: 10, offset: 1}} lg={{size: 6, offset: 3}} xl={{size: 4, offset: 4}}>
                     <Card>
                         <CardImg width="100%" className="selfie" alt="Ron Selfie Smiling" src="./Webcam Selfie Smile.jpg"></CardImg>
                         <CardTitle>Ron Scheibel</CardTitle>
