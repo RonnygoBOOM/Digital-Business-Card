@@ -1,6 +1,6 @@
 import React from 'react';
 import Footer from './FooterComponent'
-import { Card, CardImg, CardBody, CardTitle, CardSubtitle, Row, Col, Button} from 'reactstrap';
+import { Card, CardImg, CardBody, CardTitle, CardSubtitle, Row, Col} from 'reactstrap';
 
 function Main() {
     return (
