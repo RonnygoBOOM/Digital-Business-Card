@@ -12,7 +12,7 @@ function Main() {
                         <CardImg width="100%" className="selfie" alt="Ron Selfie Smiling" src="./Webcam Selfie Smile.jpg"></CardImg>
                         <CardTitle>Ron Scheibel</CardTitle>
                         <CardSubtitle>Front End Web Developer</CardSubtitle>
-                        <p style={{fontSize:10}}>ronscheibeldev.com</p>
+                        <a className="a-href" href="https://musical-liger-9886d7.netlify.app/" style={{fontSize:10}}>https://musical-liger-9886d7.netlify.app/</a>
                         <div><button className="button fa fa-envelope fa-lg" href="mailto:scheibelr@gmail.com">Email</button></div>
                         
                         <CardBody>
